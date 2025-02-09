@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm JuniorzGTX</h1>
 <h3 align="center">shitstack c++++++ snake front/backshitend developer</h3>
-
-- 📫 Contact me on discord **juniorzgtx.**
-
 <h3 align="left">Connect with me:</h3>
 - 📫 Contact me on discord **juniorzgtx.**
 <p align="left">
