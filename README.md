@@ -4,6 +4,7 @@
 - 📫 Contact me on discord **juniorzgtx.**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 Contact me on discord **juniorzgtx.**
 <p align="left">
 </p>
 
